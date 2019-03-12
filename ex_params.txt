@@ -26,8 +26,8 @@ MaxReadLength	101
 ## RACA & DESCHRAMBLER parameters
 ############################################################
 ## You can use the outrgroup more than one, but the names must be different.
-Reference	S288C	./S288C.fa.gz
-Outgroup	Saccharomyces_dairensis	./Saccharomyces_dairensis.fa.gz
+Reference	S288C	./S288C.fa
+Outgroup	Saccharomyces_dairensis	./Saccharomyces_dairensis.fa
 ### Tree must contain the names of a reference, target(s) and outgroup(s) (newick format)
 TREE	./tree.nwk
 ### Synteny resolution
